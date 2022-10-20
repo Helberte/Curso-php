@@ -1,0 +1,9 @@
+<?php
+
+
+ $valor = "";
+
+ echo $valor;
+
+
+?>
