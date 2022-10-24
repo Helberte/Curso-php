@@ -2,9 +2,9 @@
 
 
 function getNome(){
-  return 'helberte';
+  echo 'teste arquivo externo';
 }
 
-
+getNome();
 
 ?>
