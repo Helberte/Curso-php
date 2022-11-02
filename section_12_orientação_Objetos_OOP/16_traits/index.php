@@ -31,7 +31,4 @@ $x->teste();
 echo $x->traitTeste();
 echo "<br>";
 echo $x->y;
-
-
-
 ?>
