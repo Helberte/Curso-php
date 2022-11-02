@@ -15,7 +15,6 @@ class Cachorro{
     $this->cor = $cor;
   }
 
-
   public function getInformacoes(){
     return "Nome: $this->nome,
             idade: $this->idade,
