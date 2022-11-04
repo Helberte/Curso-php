@@ -1,6 +1,6 @@
 <?php
 
-
+// primeiramente criaremos uma class somente para teste
 class Pessoa{
 
   public function falar(){}
