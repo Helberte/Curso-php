@@ -2,7 +2,7 @@
 
 
 
-echo date('d/m/Y');
+var_dump(date('d'));
 echo "<br>";
 echo date('d, M - Y');
 echo "<br>";
